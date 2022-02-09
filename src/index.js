@@ -51,8 +51,6 @@ function getExtremePointsFromCoordinates(lat, long, d) {
   ]
 }
 
-const test = getExtremePointsFromCoordinates()
-
 module.exports = {
     getDistanceBetweenCoordinates,
     getExtremePointsFromCoordinates
