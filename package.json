@@ -1,0 +1,23 @@
+{
+  "name": "geolocalization.js",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Angelo Soares",
+      "email": "angeelosoares@gmail.com"
+    },
+    {
+      "name": "João Vitor",
+      "email": "correavitor4@gmail.com"
+    }
+  ],
+  "scripts": {
+    "start": "nodemon src/index.js --ignore node_modules"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
